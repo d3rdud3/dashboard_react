@@ -1,0 +1,19 @@
+.serverStateTable{
+    text-align: center;
+    font-size: 13pt;
+    margin: auto;
+}
+
+.smallSpan{
+    font-size: 8pt;
+}
+
+.serverStateEntries{
+    text-align: left;
+    margin: auto;
+}
+
+.colspace{
+    padding-right:20px;
+    padding-top: 30px;
+}

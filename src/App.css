@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+.headline{
+  text-align: center;
+}
+
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 80px;
@@ -16,6 +20,10 @@
 
 .App-intro {
   font-size: large;
+}
+
+.fondOverviewArea{
+  text-align: center;
 }
 
 @keyframes App-logo-spin {

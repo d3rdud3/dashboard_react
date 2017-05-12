@@ -1,0 +1,23 @@
+.serverState{
+    color:blue;
+    text-align:center;
+}
+
+.serverStateElement{
+
+}
+
+.serverStateIndicator{
+    width:30px;
+    height:30px;
+    display:inline-block;
+}
+
+.success{
+    background-color:green;
+    display:inline-block;
+}
+
+.serverStateDescription{
+    display:inline-block;
+}
